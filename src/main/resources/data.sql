@@ -1,0 +1,1 @@
+INSERT INTO USERS (login, password) VALUES ('fooUser', 'c0067d4af4e87f00dbac63b6156828237059172d1bbeac67427345d6a9fda484');
